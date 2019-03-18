@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "730955247174",
+    "firebase_url": "https://gamermasternoob.firebaseio.com",
+    "project_id": "gamermasternoob",
+    "storage_bucket": "gamermasternoob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730955247174:android:2560d1466bcd8b93",
+        "android_client_info": {
+          "package_name": "com.example.gamernoob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730955247174-encacmqscssrqpt1u0kqanm9n96fcid8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_4UuTvUFkPY9Wz5pz-btgBUMC44zC7QA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
