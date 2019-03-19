@@ -6,7 +6,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".SplashActivity"
-        android:background="#292424">
+        android:background="#2b6be4">
     <ImageView
             android:src="@drawable/logo"
             android:layout_width="222dp"
@@ -20,6 +20,7 @@
             app:layout_constraintBottom_toTopOf="@+id/progressBar"/>
     <ProgressBar
             android:layout_width="94dp"
+            style="@android:style/Widget.DeviceDefault.Light.ProgressBar.Large.Inverse"
             android:layout_height="71dp"
             android:id="@+id/progressBar"
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp" android:layout_marginRight="8dp"
