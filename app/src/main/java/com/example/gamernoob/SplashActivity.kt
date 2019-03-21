@@ -5,7 +5,7 @@ import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import com.example.gamernoob.view.LoginActivity
+import com.exemples.gamernoob.view.LoginActivity
 
 
 class SplashActivity : AppCompatActivity() {
@@ -15,9 +15,8 @@ class SplashActivity : AppCompatActivity() {
 
          val mRunnable : Runnable = Runnable {
         if (!isFinishing){
-            val intent = Intent(applicationContext, LoginActivity::class.java)
+            val intent = Intent(this@SplashActivity, LoginActivity::class.java)
             startActivity(intent)
-            finish()
         }
     }
 

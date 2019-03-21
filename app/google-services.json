@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "730955247174-dc0mi598aidft4afbv9frernbfb85neu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamernoob",
+            "certificate_hash": "46a215081406adfed8fa4428f49d9b78224c6511"
+          }
+        },
+        {
           "client_id": "730955247174-encacmqscssrqpt1u0kqanm9n96fcid8.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730955247174-encacmqscssrqpt1u0kqanm9n96fcid8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
